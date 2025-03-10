@@ -13,6 +13,3 @@ A facial detection-based attendance system using ESP32 cameras with a React fron
 ## Setup Instructions
 
 See the [Deployment Guide](DEPLOYMENT.md) for detailed instructions.
-# smart-attendance-system
-# smart-attendance-system
-# smart-attendance-system
